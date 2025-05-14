@@ -1,3 +1,0 @@
-# Self-driving car competition at the 2024 American Control Conference
-
-This repository contains code for the [Quanser self-driving car competition](https://www.quanser.com/community/student-competition/2024-student-self-driving-car-competition/) to be held at the [American Control Conference](https://acc2024.a2c2.org/) from July 8-12, 2024 in Toronto, Canada. The competition consists of programming the QCar from Quanser to navigate a series of roadways while obeying traffic signals (such as stopping at stop signs and staying inside the road lanes).
